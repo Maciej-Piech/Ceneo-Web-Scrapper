@@ -4,7 +4,7 @@ Projekt powstał w ramach zajęć PP2
 Aplikacja ma na celu pobieranie i wyświetlanie opinii wybranego produktu z serwisu Ceneo.pl
 Została napisana przy użyciu języka Python, JavaScript, HTML oraz CSS.
 Korzysta z bibliotek: Flask, Flask-Markdown, Flask WTForms, Jinja, Beautifulsoup4, Requests, SweetAlert.
-Podczas tworzenia aplikacji zastosowano podejście obiektowe
+Podczas tworzenia aplikacji zastosowano podejście obiektowe.
 
 <br>
 
